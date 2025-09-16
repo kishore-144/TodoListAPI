@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\models\\dtos\\postrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\models\\dtos\\postrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\repository\\repositories\\taskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\repository\\repositories\\taskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\repository\\irepositories\\itaskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\repository\\irepositories\\itaskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\models\\dtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\models\\dtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|c:\\users\\kishore b\\desktop\\intern\\tasks\\15-09-2025\\todolistapi\\todolistapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CBB48D-8EC5-4D09-8540-2FDD80D3D13C}|TodoListAPI\\TodoListAPI.csproj|solutionrelative:todolistapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KISHORE B\\Desktop\\Learn\\Dot(.)Net\\EF Core cmds.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Repository\\Repositories\\TaskRepositories.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Repository\\Repositories\\TaskRepositories.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Repository\\Repositories\\TaskRepositories.cs",
+              "RelativeToolTip": "TodoListAPI\\Repository\\Repositories\\TaskRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:51:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Program.cs",
+              "RelativeToolTip": "TodoListAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T06:04:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Repository\\IRepositories\\ITaskRepositories.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Repository\\IRepositories\\ITaskRepositories.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Repository\\IRepositories\\ITaskRepositories.cs",
+              "RelativeToolTip": "TodoListAPI\\Repository\\IRepositories\\ITaskRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:22:53.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Controllers\\Controller.cs",
+              "RelativeToolTip": "TodoListAPI\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:38:58.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\ViewDTO.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Models\\DTOs\\ViewDTO.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\ViewDTO.cs",
+              "RelativeToolTip": "TodoListAPI\\Models\\DTOs\\ViewDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:26:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Models\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "TodoListAPI\\Models\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:24:05.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Data\\DbContext.cs",
+              "RelativeToolTip": "TodoListAPI\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:13:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EF Core cmds.txt",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Learn\\Dot(.)Net\\EF Core cmds.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Learn\\Dot(.)Net\\EF Core cmds.txt",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Learn\\Dot(.)Net\\EF Core cmds.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\Learn\\Dot(.)Net\\EF Core cmds.txt",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-15T05:08:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\Task.cs",
+              "RelativeToolTip": "TodoListAPI\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:54:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRequestBody.cs",
+              "DocumentMoniker": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\PostRequestBody.cs",
+              "RelativeDocumentMoniker": "TodoListAPI\\Models\\DTOs\\PostRequestBody.cs",
+              "ToolTip": "C:\\Users\\KISHORE B\\Desktop\\Intern\\Tasks\\15-09-2025\\TodoListAPI\\TodoListAPI\\Models\\DTOs\\PostRequestBody.cs",
+              "RelativeToolTip": "TodoListAPI\\Models\\DTOs\\PostRequestBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:47:13.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
