@@ -13,8 +13,14 @@ COPY TodoListAPI/ TodoListAPI/
 
 RUN dotnet restore TodoListAPI/TodoListAPI.csproj
 
+# Generate initial migration (only if not already exists)
+WORKDIR /src/TodoListAPI
+RUN dotnet tool install --global dotnet-ef
+ENV PATH="$PATH:/root/.dotnet/tools"
+RUN dotnet ef migrations add InitialCreate --output-dir Migrations || true
+
 # Build and publish
-RUN dotnet publish TodoListAPI/TodoListAPI.csproj -c Release -o /app/publish
+RUN dotnet publish TodoListAPI.csproj -c Release -o /app/publish
 
 # 3. Final stage - runtime only
 FROM base AS final
